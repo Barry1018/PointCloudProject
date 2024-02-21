@@ -1,0 +1,42 @@
+﻿  pca_match.cpp
+C:\Program Files\PCL 1.13.0\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'pca_match.cpp')
+  
+C:\Program Files\PCL 1.13.0\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'pca_match.cpp')
+  
+C:\Program Files\PCL 1.13.0\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'pca_match.cpp')
+  
+C:\Program Files\PCL 1.13.0\3rdParty\Eigen\eigen3\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'pca_match.cpp')
+  
+C:\Program Files\PCL 1.13.0\include\pcl-1.13\pcl\common\colors.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'pca_match.cpp')
+  
+C:\Program Files\PCL 1.13.0\include\pcl-1.13\pcl\visualization\interactor_style.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'pca_match.cpp')
+  
+C:\Program Files\PCL 1.13.0\include\pcl-1.13\pcl\visualization\pcl_visualizer.h(1605,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'pca_match.cpp')
+  
+C:\Program Files\PCL 1.13.0\include\pcl-1.13\pcl\keypoints\iss_3d.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'pca_match.cpp')
+  
+C:\Program Files\PCL 1.13.0\3rdParty\Boost\include\boost-1_80\boost\random\mixmax.hpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'pca_match.cpp')
+  
+C:\Program Files\PCL 1.13.0\3rdParty\Boost\include\boost-1_80\boost\random\detail\mixmax_skip_N17.ipp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'pca_match.cpp')
+  
+C:\Program Files\PCL 1.13.0\include\pcl-1.13\pcl\point_traits.h(41,1): warning C4081: 必須是 '識別項'，但卻找到 '字串'
+  (編譯來源檔案 'pca_match.cpp')
+  
+D:\Visual Studio\pointcloud\pca_match.cpp(121,13): warning C4101: 'votex': 未參考的區域變數
+D:\Visual Studio\pointcloud\pca_match.cpp(297,13): warning C4101: 'votex': 未參考的區域變數
+D:\Visual Studio\pointcloud\pca_match.cpp(2041,9): warning C4101: 'votex': 未參考的區域變數
+D:\Visual Studio\pointcloud\pca_match.cpp(2994,9): warning C4101: 'votex': 未參考的區域變數
+D:\Visual Studio\pointcloud\pca_match.cpp(3668,9): warning C4101: 'votex': 未參考的區域變數
+D:\Visual Studio\pointcloud\pca_match.cpp(4204,17): warning C4101: 'id': 未參考的區域變數
+D:\Visual Studio\pointcloud\pca_match.cpp(959): warning C4715: '`pca_match::simplex_method'::`16'::<lambda_1>::operator()': 不是所有控制路徑都傳回值
+  pointcloud.vcxproj -> D:\Visual Studio\pointcloud\x64\Debug\pointcloud.exe
